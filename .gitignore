@@ -1,0 +1,13 @@
+# Containerlab-generated runtime directories
+clab-*/
+
+# Local environment and editor files
+.env
+.env.*
+!.env.example
+.DS_Store
+*.swp
+
+# Raw packet captures stay local by default
+*.pcap
+*.pcapng
